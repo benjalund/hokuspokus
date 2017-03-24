@@ -1,0 +1,2 @@
+# hokuspokus
+intro til github
