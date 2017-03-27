@@ -3,7 +3,12 @@
 her min første github dimmer.
 
 ## jeg er en h2
+
+Mit navn er benjamin, og jeg kan godt lide frikadeller
+
 ### jeg er en h3
+
+
 
 #### jeg er en h4
 
