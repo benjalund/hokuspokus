@@ -1,6 +1,6 @@
 # hokuspokus
 
-her min første github dimmer. GODAW
+her min første github dimmer. GODAW MIS
 
 ## jeg er en h2
 
